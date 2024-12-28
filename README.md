@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is K1SHKO
-#### I am GitHub Readme Generator's creator
 
 I am making projects for fun 😊
 
