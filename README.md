@@ -1,4 +1,4 @@
-# 👋 Hey, I'm K2SHKO
+# 👋 Hey, I'm K1SHKO
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -40,10 +40,3 @@
   <img src="https://img.shields.io/badge/krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=K2SHKO&icon=0&color=10"/>
-  </a>
-</p>
